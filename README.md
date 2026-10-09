@@ -1,5 +1,9 @@
 # MINI INJECTOR
 **Mini-Injector - is a injector with only 1 type of injecting (Manual Map).**
+# Fork.cpp
+**Fork.cpp - fixes**
+* +fixed colors
+
 # Installer's
 **GIT-CLI:**
 ```bash
